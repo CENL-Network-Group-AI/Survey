@@ -8,11 +8,12 @@ This survey of CENL members regarding their AI practices and maturity was launch
 - Identify the right contact person within the libraries regarding AI.
 - Recruit new members to the CENL network group.
 
-The report provides an overview of this survey, which received 23 responses from the CENL network of 49 national libraries (NLs) from 45 countries.
 
+
+Survey form: https://docs.google.com/forms/d/1lI_hbqHf4r3cENCrwzsSEjSF2cQoDe1LHbbaapK-6oQ/edit
 
 ## Analysis
-The analysis of the survey is available here:
+This analysis provides an overview of this survey, which received 23 responses from the CENL network of 49 national libraries (NLs) from 45 countries.
 
 https://docs.google.com/document/d/1v07j8ZRi3uwPFBdnu0ni_xToGcyoIlQu7gNFKHWXU3k/edit#
 
